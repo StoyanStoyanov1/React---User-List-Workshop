@@ -1,11 +1,11 @@
 const Header = () => {
-	return (
-		<header className="header">
-			<div className="logo">
-				<span className="course">React Workshop - September 2023</span>
-			</div>
-		</header>
-	);
+    return (
+        <header className="header">
+            <div className="logo">
+                <span className="course">User List Workshop</span>
+            </div>
+        </header>
+    );
 };
 
 export default Header;

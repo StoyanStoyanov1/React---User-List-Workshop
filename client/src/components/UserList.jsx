@@ -1,15 +1,14 @@
-import Search from "./Search.jsx"
-import UserListTable from "./UserListTable.jsx";
+import Search from "./Search";
+import UserListTable from "./UserListTable";
 
 const UserList = () => {
-	return (
-		<section className="card user-container">
-			<Search />
+    return (
+        <section className="card users-container">
+            <Search />
+            
+            <UserListTable />
+        </section>
+    );
+};
 
-			<UserListTable />
-
-		</section>
-	)
-}
-
-export default UserList
+export default UserList;
