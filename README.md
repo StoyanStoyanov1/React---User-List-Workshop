@@ -15,4 +15,3 @@
 <h2>Delete</h2>
 <img src="info/delete.jpg" alt="delete">
 <p>After clicking the 'delete' button, a dialog box appears, prompting for confirmation to delete the selected user. Once confirmed, the user is deleted from the server and removed from the DOM tree.</p>
-git 
