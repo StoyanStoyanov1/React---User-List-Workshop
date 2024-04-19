@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+гит 
 <h1>My Fisrt Project with Python</h1>
 <h2>Home</h2>
 <img src="info/home.jpg" alt="home"/>
