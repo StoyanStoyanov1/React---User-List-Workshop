@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>My Fisrt Project with Python</h1>
 <h2>Home</h2>
 <img src="info/home.jpg" alt="home"/>
@@ -14,3 +15,6 @@
 <h2>Delete</h2>
 <img src="info/delete.jpg" alt="delete">
 <p>After clicking the 'delete' button, a dialog box appears, prompting for confirmation to delete the selected user. Once confirmed, the user is deleted from the server and removed from the DOM tree.</p>
+=======
+My First Project with React
+>>>>>>> 9d2e9752b13444365f9e4a67fe03942909bad728
